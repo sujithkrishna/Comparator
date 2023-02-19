@@ -57,5 +57,6 @@ public class EmployeeSorting {
         for(Employee emp : empList){
             System.out.println(emp);
         }
+        System.out.println("DONE");
     }
 }
