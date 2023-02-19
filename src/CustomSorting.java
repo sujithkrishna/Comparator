@@ -25,6 +25,7 @@ public class CustomSorting implements Comparator  {
         CustomSorting sort = new CustomSorting();
         Collections.sort(nameList,sort);
         System.out.println("After Sort Name List is"+nameList);
-        System.out.println("Diffent User");
+        System.out.println("Different User");
+        System.out.println("End of the Program");
     }
 }
